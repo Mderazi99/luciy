@@ -1,0 +1,10 @@
+{
+  "appId": "com.luciodash.game",
+  "appName": "لوتشيو داش",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#1A2330"
+  }
+}
